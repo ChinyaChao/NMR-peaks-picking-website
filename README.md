@@ -1,7 +1,4 @@
 # NMR-peaks-picking-website
-=============
-Peaks-Picking
-=============
 
 Peaks-picking is a Django webpage to conduct Web-based peaks picking.
 
